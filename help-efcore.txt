@@ -1,0 +1,3 @@
+EF Core migration
+comanddo       nombre
+Add-Migration MiPrimeraMigracion 
